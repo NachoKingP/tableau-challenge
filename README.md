@@ -1,13 +1,19 @@
-# tableau-challenge
-Steps to completion:
--I downloaded the May 2019 and May 2020 NYC data from the data source, with the intent of comparing the same time period year over year to see if COVID had an affect on CitiBike.
--I brought it into a jupyter notebook, cleaned and consolidated the data, created some aggregate fields, and then created new .csv source files with the aggregated data.
--I imported my aggregated .csvs into Tableau.
--I sectioned off NYC into four regions: Uptown, Midtown, Downtown, and Non-Manhattan.  I did this by selecting stations with the lasso tool and creating a set for each region.
--I created calculated fields to total up the differences between 2019 and 2020 for both total rides and total ride duration for each region, as well as NYC as a whole.
--I did analyticsa on each region, comparing 2019 to 2020 for each and for NYC as a whole on a number of metrics.
--I put together multiple dashboards and a story to present my data.
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>Tableau Challenge</h1>
+<h2>Brian Remite</h2>
+<h3>Steps to completion</h3>
+<ul>
+  <li>I downloaded the May 2019 and May 2020 NYC data from the data source, with the intent of comparing the same time period year over year to see if COVID had an affect on CitiBike.</li>
+  <li>I brought it into a jupyter notebook, cleaned and consolidated the data, created some aggregate fields, and then created new .csv source files with the aggregated data.</li>
+  <li>I imported my aggregated .csvs into Tableau.</li>
+  <li>I sectioned off NYC into four regions: Uptown, Midtown, Downtown, and Non-Manhattan.  I did this by selecting stations with the lasso tool and creating a set for each region.</li>
+  <li>I created calculated fields to total up the differences between 2019 and 2020 for both total rides and total ride duration for each region, as well as NYC as a whole.</li>
+  <li>I did analyticsa on each region, comparing 2019 to 2020 for each and for NYC as a whole on a number of metrics.</li>
+  <li>I put together multiple dashboards and a story to present my data.</li>
+</ul>
 
 # Original Assignment
 # Tableau Homework - Citi Bike Analytics
@@ -152,3 +158,6 @@ Your final product will be assessed on the following metrics:
 ### Copyright
 
 Data Boot Camp © 2019. All Rights Reserved.
+
+</body>
+</html>
