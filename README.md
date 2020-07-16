@@ -11,7 +11,7 @@
   <li>I imported my aggregated .csvs into Tableau.</li>
   <li>I sectioned off NYC into four regions: Uptown, Midtown, Downtown, and Non-Manhattan.  I did this by selecting stations with the lasso tool and creating a set for each region.</li>
   <li>I created calculated fields to total up the differences between 2019 and 2020 for both total rides and total ride duration for each region, as well as NYC as a whole.</li>
-  <li>I did analyticsa on each region, comparing 2019 to 2020 for each and for NYC as a whole on a number of metrics.</li>
+  <li>I did analytics on each region, comparing 2019 to 2020 for each and for NYC as a whole on a number of metrics.</li>
   <li>I put together multiple dashboards and a story to present my data.</li>
 </ul>
 
